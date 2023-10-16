@@ -1,2 +1,5 @@
-# weldbuild_example_project
- Example project
+![splash](splash.png)
+
+### Example project
+
+* Program prints to stdout
